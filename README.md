@@ -1,106 +1,75 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hassan;Frontend+Developer;React.js+Enthusiast;Building+Amazing+UIs" alt="Typing SVG" />
-</h1>
+<!-- ================== PROFILE README ================== -->
 
-<h3 align="center">🚀 Passionate Frontend Developer from Pakistan 🇵🇰</h3>
+<!-- Banner -->
+![Banner](https://i.ibb.co/P6T3r7C/code-with-hassan-banner.png)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-</div>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00bfff&center=true&vCenter=true&width=550&lines=Hi+I'm+Code+With+Hassan;Frontend+Developer;React.js+Lover;Always+Learning" />
+</p>
 
-<br/>
+<!-- About -->
+<h1 align="center">👋 Hi, I'm Code With Hassan</h1>
+<h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
 
-## 🌟 About Me
-
-- 🔭 Currently working on **React.js projects**
-- 🌱 Learning **Advanced React patterns** and **Next.js**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
-- 📧 Reach me at **your-email@example.com**
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,cpp,figma&theme=dark" />
-</div>
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-<br/>
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-hassan01&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-with-hassan01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-hassan01&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-hassan01&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-## 💻 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-hassan01&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-hassan-tariq)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ali-hassan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/btw._.programer_00)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ali-hassan-tariq)
-
-</div>
-
-<br/>
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-with-hassan01&label=Profile%20views&color=00d9ff&style=flat" alt="Profile views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+- 💻 I build beautiful & interactive UIs  
+- 🌱 Currently learning **React + Next.js**  
+- ⚡ Fun fact: I debug faster with coffee ☕
 
 ---
 
-<div align="center">
-  <h3>⭐ Don't forget to star my repositories if you find them useful! ⭐</h3>
-</div>
+<!-- Skills -->
+### 🛠 Languages & Tools
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap">
+<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma">
+</p>
+
+---
+
+<!-- Social Links -->
+### 🌐 Connect with me:
+<p align="center">
+<a href="https://linkedin.com/in/ali hassan tariq" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+<a href="https://fb.com/ali hassan" target="blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"></a>
+<a href="https://instagram.com/btw._.programer_00" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
+<a href="https://discord.gg/ali hassan tariq" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="40"></a>
+</p>
+
+---
+
+<!-- GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%">
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=code-with-hassan01&show_icons=true&theme=tokyonight" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-hassan01&theme=tokyonight" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-hassan01&layout=compact&theme=tokyonight" height="150">
+</p>
+
+---
+
+<!-- Quote -->
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+<!-- Roadmap -->
+## 🎯 2025 Goals
+- ✅ Master React.js  
+- ✅ Build 10+ projects  
+- 🔄 Learn TypeScript  
+- 🔄 Start YouTube tutorials  
+
+<!-- Footer -->
+<p align="center">⭐️ From <a href="https://github.com/code-with-hassan01">Code With Hassan</a></p>
